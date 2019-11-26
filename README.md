@@ -1,2 +1,2 @@
-# java-stack-guide
-java based technology stack guide
+# java-docker-compose-apps
+java docker-compose base apps
